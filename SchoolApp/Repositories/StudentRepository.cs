@@ -11,11 +11,11 @@ namespace SchoolApp.Repositories
     {
         public void Save(Estudiante estudiante)
         {
-            Console.WriteLine("Iniciando proceso de guardado");
+            Console.WriteLine("Iniciando proceso de guardado.");
             
             //logica de guardado
 
-            Console.WriteLine("Iniciando proceso de guardado");
+            Console.WriteLine("Iniciando proceso de guardado.");
         }
 
         public void Actualizar(Estudiante estudiante)
